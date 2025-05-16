@@ -15,4 +15,6 @@ This is a very simple Spring project where there are the most basic functionalit
 
 2. Open the project with your IDE and hit the run button.
 
+# Screenshot
+
 <img width="1440" alt="Screenshot 2025-05-16 at 3 47 02 PM" src="https://github.com/user-attachments/assets/fb5a4676-4875-406f-9268-2c2d1d86281c" />
